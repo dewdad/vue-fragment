@@ -28,7 +28,8 @@
     "vue": "^2.5.16"
   },
   "files": [
-    "*.md", "**/*.js"
+    "*.md",
+    "**/*.js"
   ],
   "homepage": "https://github.com/y-nk/vue-fragment#readme",
   "devDependencies": {
